@@ -9,7 +9,7 @@ date: 2017-07-10 15:00:00
 Lorem markdownum ostendit carebunt semperque quam aut fama scrobe quo populator,
 **classe** possumus legeret, herbis. Quam qui inperfossus ramis altis cumulum,
 hanc. Pro cuspidis posse des Polymestora postibus: fatorum nox
-[silvarum](http://www.boves.net/summiset.html), ad esto, ruptosque.
+[silvarum](https://www.boves.net/summiset.html), ad esto, ruptosque.
 
 1.  Imago pervenit ager simulac
 2.  Sacra dixit
@@ -20,14 +20,14 @@ hanc. Pro cuspidis posse des Polymestora postibus: fatorum nox
 
 Numina _ad sublimia pater_, res nec rupit tollens, illi. Etiam tenuata; victore
 Atrides **fallaciter haec longus** Haemonias lumina taedas sed sumptas mihi
-[Lavinia](http://naxoqueinde.com/iampatulos), qui quondam. Radiis **is examinat
+[Lavinia](https://naxoqueinde.com/iampatulos), qui quondam. Radiis **is examinat
 enim** inposita fovebat qua. Si dixisse et Hymenaee, et depulsum mutatus arida
 Iovis? Parabat caput.
 
 ## Cultu Troades spectat parvis anguicomae
 
 Aer nondum populos summaque decimo, potuit ille sum ad
-[cultor](http://www.gaudet-pensa.io/), ille abit. Nantemque erubui numina
+[cultor](https://www.gaudet-pensa.io/), ille abit. Nantemque erubui numina
 errant: tuta delapsa Gorgone versae et aquae isse. Innectere amor arduus,
 ingesta dentes. Puer timor a ramos tellus expalluit secreta, cum. Busto vota,
 madefactam **pompa** eripere moenia fodiebant frondes redeunt.

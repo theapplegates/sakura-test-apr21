@@ -13,8 +13,8 @@ Lorem markdownum dolores; iam foret **est fontes celebrabant** arcus et bacarum
 vocatur est omnes orbem, et. Quid quanto herbas frenabas nam gravemque vindex
 pressaeque Caenea modo postulat **excutit legem** quondam. Crimina coactus
 ostendens verba? Haec per manus manu medere spectabere accipe totum quae agitur
-**insequor**, fugit tuae [caestibus](http://www.bracchia.io/). Moenia anus
-lectos **dixit sumptis formas**: metu fertis [vox](http://www.miramundi.org/) et
+**insequor**, fugit tuae [caestibus](https://www.bracchia.io/). Moenia anus
+lectos **dixit sumptis formas**: metu fertis [vox](https://www.miramundi.org/) et
 fulgura labori Tmolus nisi nec tanto atque sub liquor.
 
 ## Fontis satus cara
@@ -39,7 +39,7 @@ boot.mtuBoot.tabletThickCopyright(
 
 Es habebat conplexaque dixit praecordiaque Turne; Capitolia neque dulces calidus
 concipit, ad en! Phrygia tuba filius celebrant dedit ignotae hirsutus et proxima
-[mersaeque tamen](http://heu.org/iuvenalibus) letalem inmissos longum libandas
+[mersaeque tamen](https://heu.org/iuvenalibus) letalem inmissos longum libandas
 quo, timenda. Animam per non adgrediar genuisse. Pasiphaen morte cum: firmat,
 formam e totas infestus me esset quae circumvolat.
 

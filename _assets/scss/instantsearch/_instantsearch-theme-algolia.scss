@@ -45,7 +45,7 @@
 .ais-hierarchical-menu--link {
   position: relative; }
   .ais-hierarchical-menu--link::after {
-    background: url("data:image/svg+xml;utf8,<svg viewBox='0 0 8 13' xmlns='http://www.w3.org/2000/svg'><path d='M1.5 1.5l5 4.98-5 5.02' stroke='%23697782' stroke-width='1.5' fill='none' fill-rule='evenodd' stroke-linecap='round' opacity='.4'/></svg>") no-repeat center center/contain;
+    background: url("data:image/svg+xml;utf8,<svg viewBox='0 0 8 13' xmlns='https://www.w3.org/2000/svg'><path d='M1.5 1.5l5 4.98-5 5.02' stroke='%23697782' stroke-width='1.5' fill='none' fill-rule='evenodd' stroke-linecap='round' opacity='.4'/></svg>") no-repeat center center/contain;
     content: ' ';
     display: block;
     position: absolute;
@@ -58,7 +58,7 @@ select.ais-hits-per-page-selector, select.ais-numeric-selector, select.ais-sort-
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
-  background: #FFFFFF url("data:image/svg+xml;utf8,<svg viewBox='0 0 12 7' xmlns='http://www.w3.org/2000/svg'><path d='M11 1L6.02 6 1 1' stroke-width='1.5' stroke='%23BFC7D8' fill='none' fill-rule='evenodd' stroke-linecap='round'/></svg>") no-repeat center right 16px/10px;
+  background: #FFFFFF url("data:image/svg+xml;utf8,<svg viewBox='0 0 12 7' xmlns='https://www.w3.org/2000/svg'><path d='M11 1L6.02 6 1 1' stroke-width='1.5' stroke='%23BFC7D8' fill='none' fill-rule='evenodd' stroke-linecap='round'/></svg>") no-repeat center right 16px/10px;
   box-shadow: 0 1px 1px 0 rgba(85, 95, 110, 0.2) !important;
   border: solid 1px #D4D8E3 !important;
   border-radius: 4px;
@@ -242,7 +242,7 @@ select.ais-hits-per-page-selector, select.ais-numeric-selector, select.ais-sort-
   height: 14px;
   width: 14px; }
   .ais-breadcrumb--root .ais-breadcrumb--separator::after {
-    background: url("data:image/svg+xml;utf8,<svg viewBox='0 0 8 13' xmlns='http://www.w3.org/2000/svg'><path d='M1.5 1.5l5 4.98-5 5.02' stroke='%23697782' stroke-width='1.5' fill='none' fill-rule='evenodd' stroke-linecap='round' opacity='.4'/></svg>") no-repeat center center/contain;
+    background: url("data:image/svg+xml;utf8,<svg viewBox='0 0 8 13' xmlns='https://www.w3.org/2000/svg'><path d='M1.5 1.5l5 4.98-5 5.02' stroke='%23697782' stroke-width='1.5' fill='none' fill-rule='evenodd' stroke-linecap='round' opacity='.4'/></svg>") no-repeat center center/contain;
     content: ' ';
     display: block;
     position: absolute;

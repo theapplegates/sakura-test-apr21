@@ -9,7 +9,7 @@ date: 2017-07-10 15:00:00
 Lorem markdownum relinquunt **reverti**. Petiere vibrantia, est neci expendite,
 excutit a tulit saxo admoti armentum manus. Ira proxima nobis verumtamen
 _debita_: ira, ore sint: cum. Per per primusque dicta, dracones prole [Bacchica
-certumque stratoque](http://www.axem.com/digna.html) suisque armis. Per tenet?
+certumque stratoque](https://www.axem.com/digna.html) suisque armis. Per tenet?
 
 > Haec voce fuerat pondere nubila propioris Aeacus. Qui cruor dare **me
 > clausus** eadem! Semper non tunc, cum in trabem, pudore inde Siculis caute
@@ -17,7 +17,7 @@ certumque stratoque](http://www.axem.com/digna.html) suisque armis. Per tenet?
 
 Nec Parnasia circum terraeque addita i certus lacrimavit religione iamdudum
 rogando? Undas ad evulsum ferit, vidit novissima incaluit sanguine in **quae
-multarum** obiecit, umbra [percurrere et sed](http://artus.org/), urbi?
+multarum** obiecit, umbra [percurrere et sed](https://artus.org/), urbi?
 Admoverat Ultima? Quae sunt, non enim increpor rursus inpavidus accedere perque
 tenebras si dirae.
 
@@ -25,7 +25,7 @@ tenebras si dirae.
 
 Dei pone, fortibus odoratis culpa, sonitu tenebras gurgite alimentaque errare
 mentas australem dimittit requie. Edere me [socer quoque
-subcrescit](http://orpheu-nova.org/facit.html) liceret, ingentia os coniuge
+subcrescit](https://orpheu-nova.org/facit.html) liceret, ingentia os coniuge
 virgine tibi fatalia Cadmi: aureus.
 
 > Adnuit et nuper emittere optatis **factaque**; dryadas deus qua volubilibus,
@@ -40,7 +40,7 @@ infelix illis poterentur omnia quisquam excepi. Et dicor Hactenus vitio, per
 ignea per circo male sonus respondent.
 
 Inmeriti clauditur hunc; condita quo [equus
-rogantem](http://potentia-pollice.com/) versum. Inseruitque hiemem Iuppiter
+rogantem](https://potentia-pollice.com/) versum. Inseruitque hiemem Iuppiter
 dissipat; an digna aut monstri igne Nasamoniaci. Dedimus candore si bene.
 Hominem vatis nubila. Ara magni bona fac lacrimas undae **hortatus** de ipse
 cornicis dente, sua nec Iovem urbes.

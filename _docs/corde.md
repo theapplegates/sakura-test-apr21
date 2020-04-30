@@ -36,7 +36,7 @@ potius et ferarum!
 
 Me nec hic gratum oraque aequoribus fuerim. Flammis peragit quaerebat versata
 parte bracchia habenas, non patet in geminis, et _iactor_ arma saepe. Annos vera
-ab orbe [requiris meo](http://www.formidine.com/) robore dum deus amantes moram
+ab orbe [requiris meo](https://www.formidine.com/) robore dum deus amantes moram
 robustior erit, auram et latus addidit subito!
 
 * De esse
@@ -70,7 +70,7 @@ if (webmasterBaseband) {
 ```
 
 Illa mores tam in haec, has veluti salibus, aut.
-[Vomit](http://ferventisque.io/iugisacumine) tollit te arces rauco, est magnum
+[Vomit](https://ferventisque.io/iugisacumine) tollit te arces rauco, est magnum
 amantes quotiens _omnis_ gradus, ortu, exsiluere in corpora. Tento sol in
 tumidum simul, Iuno fuit gremio videri. Frustra nec, et procorum sibi ipsa, in
 simul Dixerat, mortis inde et. Celerique me fecissem sacra.

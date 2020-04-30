@@ -67,7 +67,7 @@ The trick here is to add the quote information to your _front matter_ like this:
 title: Blockquotes
 description: Various ways to use blockquotes
 category: Sample
-image: http://www.bestsayingsquotes.com/files/famous-quotes-on-lnowledge-2dd2f90c.jpg
+image: https://www.bestsayingsquotes.com/files/famous-quotes-on-lnowledge-2dd2f90c.jpg
 quote: These violent delights have violent ends.
 quote-author: William Shakespeare
 quote-source: Romeo and Juliet

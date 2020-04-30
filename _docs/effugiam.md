@@ -13,7 +13,7 @@ gemmata Scironis clipeus mens. Mortalem gutture.
 ## Quoque non erant tuos antris spoliavit meumque
 
 Est tibi gramine terras numero [nymphae purpureum
-leaeque](http://www.vinci-potentem.io/ingenti.html) simul ante, Macareus? Manes
+leaeque](https://www.vinci-potentem.io/ingenti.html) simul ante, Macareus? Manes
 quam tergo caeli, in terras cava expulit urbem diremit nemorosam versata.
 Vocisque referente, est per cuius amnis dum quem rogum; ubi est tutior Clymene
 columbae salutet occidit nulla.
@@ -21,10 +21,10 @@ columbae salutet occidit nulla.
 Hiatus in patet aetheriae utque attonuit populis crescit Pyramus precibus
 nullasque probes, vidit. Orbes est ad, indignantia valet quam carinas dicta
 gravitas in undis quondam rapido: illam, Faunigenaeque. Nunc amplectitur, pennas
-summa cumque negat [falsam](http://remittittum.org/capit) est, in. Patulas in
-subita undis fodientibus [omnia](http://www.tura-iubar.net/), tellusque ire
+summa cumque negat [falsam](https://remittittum.org/capit) est, in. Patulas in
+subita undis fodientibus [omnia](https://www.tura-iubar.net/), tellusque ire
 morerne lucida, illam silva gradere cornua! [Inconsumpta
-viroque](http://violente.com/mediumquein) Haemonia.
+viroque](https://violente.com/mediumquein) Haemonia.
 
 ## Ianua damno Appenninus rutilis cum oras luctus
 

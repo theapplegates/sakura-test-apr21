@@ -2,7 +2,7 @@
 title: Jean Shorts
 description: Jean shorts la croix subway tile master cleanse, lo-fi chartreuse hoodie. 
 category: Sample
-image: http://pa1.narvii.com/6341/656b421885e6b0aef04f1d02aa449f096a2b8529_00.gif
+image: https://pa1.narvii.com/6341/656b421885e6b0aef04f1d02aa449f096a2b8529_00.gif
 sitemap: false
 ---
 

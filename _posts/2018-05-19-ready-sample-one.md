@@ -118,15 +118,15 @@ Images can be inserted using normal markdown syntax like this:
 
 ##### Small Image Using Markdown
 
-![Spock](http://www.togomeetings.com/wp-content/uploads/2017/08/luxury-spock-poster-and-gut-of-portland-premiere-for-the-love-of-spock-posters-4-128x128.jpg){:.rounded}
+![Spock](https://www.togomeetings.com/wp-content/uploads/2017/08/luxury-spock-poster-and-gut-of-portland-premiere-for-the-love-of-spock-posters-4-128x128.jpg){:.rounded}
 
 ##### Large Image Using Markdown
 
-![Westworld](http://artofvfx.com/wp-content/uploads/2016/09/Westworld_Chaos_trailer.png){:.rounded}
+![Westworld](https://artofvfx.com/wp-content/uploads/2016/09/Westworld_Chaos_trailer.png){:.rounded}
 
 ##### Here's a GIF Using Markdown
 
-![BladeRunner_2049](http://thefilmexperience.net/storage/2017/2049.gif){:.rounded}
+![BladeRunner_2049](https://thefilmexperience.net/storage/2017/2049.gif){:.rounded}
 
 ##### Responsive Image Using HTML 5 Figure Tag
 

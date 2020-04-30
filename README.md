@@ -151,16 +151,16 @@ If you see this, after running `yarn install-theme`, you're all good!
 ```js
 [Browsersync] Access URLs:
  -------------------------------------
-       Local: http://localhost:3000
-    External: http://192.168.1.10:3000
+       Local: https://localhost:3000
+    External: https://192.168.1.10:3000
  -------------------------------------
-          UI: http://localhost:3001
- UI External: http://192.168.1.10:3001
+          UI: https://localhost:3001
+ UI External: https://192.168.1.10:3001
  -------------------------------------
 [Browsersync] Serving files from: _site/
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the site, if it hasn't already opened in your default browser.
+Open [https://localhost:3000](https://localhost:3000) in your browser to view the site, if it hasn't already opened in your default browser.
 
 > :point_up: To stop running the server, press `ctrl-c` where the server is running. To start the server again (which includes the Jekyll build process), run `yarn serve` from the sakura directory.
 
@@ -449,7 +449,7 @@ At present, they are only usable via HTML, as I didn't see a big need to use the
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at [https://github.com/kimfucious/sakura](https://github.com/kimfucious/sakura). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at [https://github.com/kimfucious/sakura](https://github.com/kimfucious/sakura). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://contributor-covenant.org) code of conduct.
 
 ## Credits and Resources
 

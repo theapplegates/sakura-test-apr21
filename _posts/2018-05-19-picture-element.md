@@ -115,7 +115,7 @@ While it might seem a bit excessive to create a bunch of images like this, I thi
 The `<picture>` element is supported fairly well by modern browsers. Internet Explorer (IE) is sadly not very modern. There is a polyfill that I might add to support IE if anyone sends me enough crying emojis from their machine running Windows Vista.
 
 <p class="ciu_embed" data-feature="picture" data-periods="future_3,future_2,future_1,current,past_1,past_2,past_3" data-accessible-colours="false">
-  <a href="http://caniuse.com/#feat=picture">Can I Use picture?</a> Data on support for the picture feature across the major browsers from caniuse.com.
+  <a href="https://caniuse.com/#feat=picture">Can I Use picture?</a> Data on support for the picture feature across the major browsers from caniuse.com.
 </p>
 
 <script src="https://cdn.jsdelivr.net/gh/ireade/caniuse-embed/caniuse-embed.min.js"></script>

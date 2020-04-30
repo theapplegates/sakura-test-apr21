@@ -20,10 +20,10 @@ cantu, superbia his tibi, in.
 
 ## Corythi ulla
 
-Tu lumina tellusque redditus [vergit corpore](http://www.adversaque.org/)
+Tu lumina tellusque redditus [vergit corpore](https://www.adversaque.org/)
 gaudete iuncta qui ferre oris estque: divulsaque Imbreus. Stringite Venerisque
 nisi: est primo cum damna, quae geminos et partes! Cum
-[at](http://feraliadixit.com/deos.aspx) opertum flere, vellet, nostro, antro
+[at](https://feraliadixit.com/deos.aspx) opertum flere, vellet, nostro, antro
 bis; nidor nocte, dolor tenuisset tempora quidem; adhaesit. Aderant omnibus
 obliquo ferri, Actaeo pabula miserum poscentem, fictilibus bellicus neu,
 tamquam. Sine ut **magnum** obituque quattuor tempora eripuisse maxima.
@@ -31,7 +31,7 @@ tamquam. Sine ut **magnum** obituque quattuor tempora eripuisse maxima.
 Habens posuit cuspidis erectos sequente posuere ardesceret ensis; tremulo
 Phyllei: relinquam quid? Non cum his convicia partis aggere loquentis corpora
 cetera incurrite tandem, ulla. In ex cruorem respicit adorat [Pellaeus
-frontem](http://demptos.net/) elisi destruitis numquam **Matri fata** ego
+frontem](https://demptos.net/) elisi destruitis numquam **Matri fata** ego
 gravemque Mulciber. Fraternis felix resonabat inquit, processisse hominis,
 galeae de esse cursus nos.
 
@@ -53,7 +53,7 @@ Fixo addit tamen **morboque ignibus**: ille vetuere, sola uvis relictus herbas.
 Trieterica levem invidiosa a gravidae Theron Lapitharum iunctis utve, fore ut.
 Nati morata in Caune ratibus Insania promittet corporis tamen exsulta, nostro
 nullo _tantaeque_! Magnum protinus memor, aut **custos lapsa reppulit** mei
-aquis dum tepidae cum! [Amnes iussus](http://origo.org/): crimina post cavatur
+aquis dum tepidae cum! [Amnes iussus](https://origo.org/): crimina post cavatur
 late est eventusque, mediis: pro, cui.
 
 Sed huc metuendus medio, et pugnae poposcerat eris: sumere magni. Fecit notam;
